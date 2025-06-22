@@ -1,5 +1,6 @@
 # Shiritoria_Desktop
 # 起動方法
-このリポジトリをクローンまたはダウンロードし，Shiritoria.exeを起動してください．（Windows以外での動作確認はできておりません．）
+このリポジトリをクローンまたはダウンロードし，Shiritoria.exeを起動してください．（Windows以外での動作確認はできておりません．）<br>
+「Windows によって PC が保護されました」と表示された際は，詳細から実行をクリックしてください．
 # ソースコード
 https://github.com/Tyara-173/Shiritoria-Develop
